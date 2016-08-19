@@ -4,7 +4,8 @@ Gem::Specification.new do |s|
   s.date        = '2015-03-26'
   s.summary     = 'Leveraging Doorkeeper as single-sign-on OAuth server.'
   s.description = "#{s.summary} To provide true single-sign-OUT, every request on an OAuth client app is verified with the SSO server."
-  s.author      = 'halo'
+  s.author      = ["James Pinto"]
+  s.email       = ["thejamespinto@gmail.com"]
   s.license     = 'MIT'
   s.homepage    = 'https://github.com/halo/sso'
 
